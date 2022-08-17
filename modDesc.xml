@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="63">
+    <author>CptCray</author>
+    <version>0.1.0.0</version>
+    <title>
+        <en>Automatic Reel Speed</en>
+        <de>Automatische Haspelgeschwindigkeit</de>
+    </title>
+    <description>
+        <en><![CDATA[Adjusts the combine reel speed depending on driven speed]]></en>
+        <de><![CDATA[Passt die Geschwindigkeit der Drescher-Haspel entsprechend der Fahrgeschwindigkeit an]]></de>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="AutomaticReelSpeed.lua"/>
+    </extraSourceFiles>
+</modDesc>
